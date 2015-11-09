@@ -1,0 +1,17 @@
+{
+    "name": "zdh/composer_test",
+    "description": "for test",
+    "authors": [
+        {
+            "name": "lizhengxing",
+            "email": "lizhengxing@baidu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "zdh\\test1\\": "src/"
+        }  
+    }  
+}
